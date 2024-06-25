@@ -40,3 +40,7 @@ You can view the live demo of this project here: [Portfolio](https://yassenali.g
 - Bootstrap for the responsive framework.
 - All projects and images showcased are my own work.
 - Special thanks to my mentors and peers for their support and feedback.
+
+---
+
+Feel free to explore the files and see how everything is implemented. Enjoy showing my Porfolio!
