@@ -34,7 +34,7 @@ This portfolio website showcases my skills, projects, and contact information. I
 3. Explore each section to learn more about my skills and projects.
 
 ## Live Demo
-You can view the live demo of this project here: [Portfolio](https://yassenali.github.io/Portfolio2/)
+You can view the live demo of this project here: [My Portfolio](https://yassenali.github.io/Portfolio2/)
 
 ## Acknowledgments
 - Bootstrap for the responsive framework.
